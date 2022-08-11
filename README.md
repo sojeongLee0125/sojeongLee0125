@@ -36,11 +36,11 @@
 </p>
 <h2 align="center"><b>🎞 My Project History 🎞</b></h2>
 <p align="center">
-<a href="https://github.com/sojeonglee0125/SaladMall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=growthlee0125&repo=SaladMall" />
+<a href="https://github.com/sojeongLee0125/SaladMallProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sojeongLee0125&repo=SaladMallProject" />
 </a>
-<a href="https://github.com/growthlee0125/FirstProjectHomepage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=growthlee0125&repo=FirstProjectHomepage" />
+<a href="https://github.com/sojeongLee0125/MyHomepageProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sojeongLee0125&repo=MyHomepageProject" />
 </a>
   </p>
 </br>

@@ -73,6 +73,9 @@
 <a href="https://github.com/sojeongLee0125/SaladMallProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sojeongLee0125&repo=SaladMallProject" />
 </a>
+<a href="https://github.com/sojeongLee0125/seb41_pre_032">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sojeongLee0125&repo=seb41_pre_032" />
+</a>
 </p>
 
 </br>

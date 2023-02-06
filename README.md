@@ -23,6 +23,7 @@
                     <div><img width="100%" src="/image/history1.png"/></div>
                 </a>
                     <br>
+                    <br>
                     <div align = "center"> 1️⃣ 자기계발 커뮤니티 </div>
                     <div align = "center"> 🗓️ 2021.06.16 ~ 2021.07.20 </div>
                     <br>
@@ -40,7 +41,7 @@
                     <div><img width="100%" src="/image/history3.png"/></div>
                 </a>
                     <br>
-                    <div align = "center"> 3️⃣ 스택오버플로우 클론코딩 </div>
+                    <div align = "center"> 3️⃣ SOF 클론코딩 </div>
                     <div align = "center"> 🗓️ 2022.12.15 ~ 2023.01.02 </div>
             </td>
             <td>

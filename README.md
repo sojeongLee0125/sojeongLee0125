@@ -19,34 +19,36 @@
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/sojeongLee0125/MyHomepageProject">
-                    <div>[📍 History ONE ] 첫 번째 프로젝트 </div>
+                <a href="https://github.com/sojeongLee0125/MyHomepageProject"> 
+                    <div><img width="100%" src="/image/history1.png"/></div>
                 </a>
-                    <div> 📌 자기계발 관련 정보를 공유할 수 있는 커뮤니티 </div>
-                    <div> 🗓️ 2021.06.16 ~ 2021.07.20 </div>
+                    <br>
+                    <div align = "center"> 📌 자기계발 정보 공유 커뮤니티 </div>
+                    <div align = "center"> 🗓️ 2021.06.16 ~ 2021.07.20 </div>
             </td>
             <td>
                 <a href="https://github.com/sojeongLee0125/SaladMallProject">
-                    <div>[📍 History TWO ] 두 번째 프로젝트 </div>
+                    <div><img width="120%" src="/image/history2.png"/></div>
                 </a>
-                    <div> 📌 직접 샐러드 재료를 선택 할 수 있는 샐러드 몰 </div>
-                    <div> 🗓️ 2021.09.01 ~ 2021.10.07 </div>
+                    <br>
+                    <div align = "center"> 📌 재료 커스텀이 가능한 샐러드몰 </div>
+                    <div align = "center"> 🗓️ 2021.09.01 ~ 2021.10.07 </div>
             </td>
-        </tr>
-        <tr>
             <td>
                 <a href="https://github.com/sojeongLee0125/StackOverFlowCloneCoding">
-                    <div>[📍History THREE ] 세 번째 프로젝트 </div>
+                    <div><img width="100%" src="/image/history3.png"/></div>
                 </a>
-                    <div> 📌 스택 오버 플로우 클론 코딩 해보기 </div>
-                    <div> 🗓️ 2022.12.15 ~ 2023.01.02 </div>
+                    <br>
+                    <div align = "center"> 📌 스택 오버 플로우 클론 코딩 </div>
+                    <div align = "center"> 🗓️ 2022.12.15 ~ 2023.01.02 </div>
             </td>
             <td>
                 <a href="https://github.com/sojeongLee0125/TradeShopProject">
-                    <div>[📍History FOUR ] 네 번째 프로젝트 </div>
+                    <div><img width="100%" src="/image/history4.png"/></div>
                 </a>
-                    <div> 📌 ONE-STOP COIN / NFT 거래소 </div>
-                    <div> 🗓️ 2023.01.03 ~ 2023.02.03 </div>
+                    <br>
+                    <div align = "center"> 📌 ONE-STOP COIN / NFT 거래소 </div>
+                    <div align = "center"> 🗓️ 2023.01.03 ~ 2023.02.03 </div>
             </td>
         </tr>
     </tbody>

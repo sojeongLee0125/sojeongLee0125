@@ -29,7 +29,7 @@
                 <a href="https://github.com/sojeongLee0125/SaladMallProject">
                     <div>[📍 History TWO ] 두 번째 프로젝트 </div>
                 </a>
-                    <div> 📌 고객이 직접 샐러드 재료를 선택 할 수 있는 샐러드 몰 </div>
+                    <div> 📌 직접 샐러드 재료를 선택 할 수 있는 샐러드 몰 </div>
                     <div> 🗓️ 2021.09.01 ~ 2021.10.07 </div>
             </td>
         </tr>

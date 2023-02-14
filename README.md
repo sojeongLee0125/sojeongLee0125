@@ -6,10 +6,8 @@
 📌 변화에 유연하고, 안정적인 성능의 코드를 구성하기 위해 항상 고민합니다. <br>
 📌 성실한 학습으로 꾸준한 성장을 추구합니다.
 
-[![Résumé](https://img.shields.io/badge/Résumé-FF?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://)](https://)
 [![Tech Blog](http://img.shields.io/badge/-Blog-black?style=flat-round&logo=tistory&link=https://jeong-lee-0125.tistory.com/)](https://jeong-lee-0125.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:sojeonglee0125@gmail.com)](mailto:sojeonglee0125@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-round&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
 
 ### 🎮 Activity
 [![BOJ stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojeonglee0125)](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojeonglee0125)

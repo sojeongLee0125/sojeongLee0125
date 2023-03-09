@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:sojeonglee0125@gmail.com)](mailto:sojeonglee0125@gmail.com)
 
 ### 🎮 Activity
-[![BOJ stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojeonglee0125)](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojeonglee0125)
+[![BOJ stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojeong0125)](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojeong0125)
 
 ### 📃 Project History
 <table>

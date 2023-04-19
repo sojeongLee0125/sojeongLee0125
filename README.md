@@ -35,7 +35,7 @@
                     <div align = "center"> 🗓️ 2021.09.01 ~ 2021.10.07 </div>
             </td>
             <td>
-                <a href="https://github.com/codestates-seb/seb41_pre_032">
+                <a href="https://github.com/sojeongLee0125/StackOverFlowCloneCoding">
                     <div><img width="100%" src="/image/history3.png"/></div>
                 </a>
                     <br>

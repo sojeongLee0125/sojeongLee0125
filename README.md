@@ -35,7 +35,7 @@
                     <div align = "center"> 🗓️ 2021.09.01 ~ 2021.10.07 </div>
             </td>
             <td>
-                <a href="https://github.com/sojeongLee0125/StackOverFlowCloneCoding">
+                <a href="https://github.com/codestates-seb/seb41_pre_032">
                     <div><img width="100%" src="/image/history3.png"/></div>
                 </a>
                     <br>
@@ -43,7 +43,7 @@
                     <div align = "center"> 🗓️ 2022.12.15 ~ 2023.01.02 </div>
             </td>
             <td>
-                <a href="https://github.com/sojeongLee0125/TradeShopProject">
+                <a href="https://github.com/codestates-seb/seb41_main_008">
                     <div><img width="100%" src="/image/history4.png"/></div>
                 </a>
                     <br>

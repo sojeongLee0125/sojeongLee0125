@@ -22,7 +22,7 @@
                 </a>
                     <br>
                     <br>
-                    <div align = "center"> 1️⃣ 자기계발 커뮤니티 </div>
+                    <div align = "center"> 1️⃣ My Homepage </div>
                     <div align = "center"> 🗓️ 2021.06.16 ~ 2021.07.20 </div>
                     <br>
             </td>

@@ -11,6 +11,7 @@
 
 ### 🎮 Activity
 [![BOJ stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojeong0125)](http://mazassumnida.wtf/api/v2/generate_badge?boj=sojeong0125)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeongLee0125&layout=compact)](https://github.com/sojeongLee0125/github-readme-stats)
 
 ### 📃 Project History
 <table>

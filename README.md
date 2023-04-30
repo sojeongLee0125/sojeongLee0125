@@ -18,46 +18,46 @@
     <tbody>
         <tr>
             <td>
+                <a href="https://github.com/codestates-seb/seb41_main_008">
+                    <div><img width="100%" src="/image/history4.png"/></div>
+                </a>
+                    <br>
+                <a href="https://github.com/codestates-seb/seb41_main_008">
+                    <div align = "center"> 💡 ONE-STOP NFT 거래소 </div>
+                </a>
+                    <div align = "center"> 🗓️ 2023.01.03 ~ 2023.02.03 </div>
+            </td>
+             <td>
+                <a href="https://github.com/sojeongLee0125/StackOverFlowCloneCoding">
+                    <div><img width="100%" src="/image/history3.png"/></div>
+                </a>
+                    <br>
+                <a href="https://github.com/sojeongLee0125/StackOverFlowCloneCoding">
+                    <div align = "center"> 💡 SOF 클론코딩 </div>
+                </a>
+                    <div align = "center"> 🗓️ 2022.12.15 ~ 2023.01.02 </div>
+            </td>
+             <td>
+                <a href="https://github.com/sojeongLee0125/SaladMallProject">
+                    <div><img width="120%" src="/image/history2.png"/></div>
+                </a>
+                    <br>
+                <a href="https://github.com/sojeongLee0125/SaladMallProject">
+                    <div align = "center"> 💡 재료 커스텀 샐러드몰 </div>
+                </a> 
+                    <div align = "center"> 🗓️ 2021.09.01 ~ 2021.10.07 </div>
+            </td>
+             <td>
                 <a href="https://github.com/sojeongLee0125/MyHomepageProject"> 
                     <div><img width="100%" src="/image/history1.png"/></div>
                 </a>
                     <br>
                     <br>
                 <a href="https://github.com/sojeongLee0125/MyHomepageProject"> 
-                    <div align = "center"> 1️⃣ My Homepage </div>
+                    <div align = "center"> 💡 My Homepage </div>
                 </a>
                     <div align = "center"> 🗓️ 2021.06.16 ~ 2021.07.20 </div>
                     <br>
-            </td>
-            <td>
-                <a href="https://github.com/sojeongLee0125/SaladMallProject">
-                    <div><img width="120%" src="/image/history2.png"/></div>
-                </a>
-                    <br>
-                <a href="https://github.com/sojeongLee0125/SaladMallProject">
-                    <div align = "center"> 2️⃣ 재료 커스텀 샐러드몰 </div>
-                </a> 
-                    <div align = "center"> 🗓️ 2021.09.01 ~ 2021.10.07 </div>
-            </td>
-            <td>
-                <a href="https://github.com/sojeongLee0125/StackOverFlowCloneCoding">
-                    <div><img width="100%" src="/image/history3.png"/></div>
-                </a>
-                    <br>
-                <a href="https://github.com/sojeongLee0125/StackOverFlowCloneCoding">
-                    <div align = "center"> 3️⃣ SOF 클론코딩 </div>
-                </a>
-                    <div align = "center"> 🗓️ 2022.12.15 ~ 2023.01.02 </div>
-            </td>
-            <td>
-                <a href="https://github.com/codestates-seb/seb41_main_008">
-                    <div><img width="100%" src="/image/history4.png"/></div>
-                </a>
-                    <br>
-                <a href="https://github.com/codestates-seb/seb41_main_008">
-                    <div align = "center"> 4️⃣ ONE-STOP NFT 거래소 </div>
-                </a>
-                    <div align = "center"> 🗓️ 2023.01.03 ~ 2023.02.03 </div>
             </td>
         </tr>
     </tbody>

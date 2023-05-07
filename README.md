@@ -1,10 +1,10 @@
-### 👻 Introduce
+### 😎 Introduce
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeongLee0125&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-📌 안녕하세요. 신입 백엔드 개발자 이소정입니다. <br>
+📌 안녕하세요. 주니어 백엔드 개발자 이소정입니다. <br>
 📌 변화에 유연하고, 안정적인 성능의 코드를 구성하기 위해 항상 고민합니다. <br>
-📌 성실한 학습으로 꾸준한 성장을 추구합니다.
+📌 성실한 학습을 통한 꾸준한 성장을 추구합니다.
 
 [![Tech Blog](http://img.shields.io/badge/-Blog-black?style=flat-round&logo=tistory&link=https://jeong-lee-0125.tistory.com/)](https://jeong-lee-0125.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:sojeonglee0125@gmail.com)](mailto:sojeonglee0125@gmail.com)
